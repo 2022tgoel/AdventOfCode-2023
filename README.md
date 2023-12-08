@@ -1,0 +1,1 @@
+Solving selected Advent of Code problems in rust, to learn rust
